@@ -4,11 +4,14 @@ import javax.jws.WebResult;
 import javax.xml.ws.RequestWrapper;
 import javax.xml.ws.ResponseWrapper;
 
-import Model.AstronomicalUnit;
-import Model.AstronomicalUnitSoap;
+import ku.astro.model.AstronomicalUnit;
+import ku.astro.model.AstronomicalUnitSoap;
+import ku.astro.model.Astronomicals;
+import ku.astro.view.AstronomicalUI;
 
-import Model.Astronomicals;
-import View.AstronomicalUI;
+
+
+
 
 
 public class Main {
